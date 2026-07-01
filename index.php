@@ -1,1 +1,1 @@
-<?php echo 'Hola mundo'; echo ' Conectando a MySQL...'; ?>
+<?php echo 'Hola mundo'; echo 'Cargando vista de mapa...'; ?>
