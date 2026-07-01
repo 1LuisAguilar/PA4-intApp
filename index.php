@@ -1,1 +1,1 @@
-<?php echo 'Hola mundo'; echo 'Cargando vista de mapa...'; ?>
+<?php echo 'Hola desde la rama del companero'; ?>
